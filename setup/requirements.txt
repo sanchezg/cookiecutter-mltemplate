@@ -1,0 +1,4 @@
+# Include here specific requirements to be installed with pip
+sqlalchemy
+pandas
+pymysql
